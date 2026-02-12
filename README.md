@@ -1,5 +1,5 @@
 # SmartCart-Customer-Segmentation-using-Clustering
-SmartCart – Customer Segmentation using Clustering
+SmartCart – Customer Segmentation using Clustering.
 Problem Statement
 =================
 E-commerce companies need to understand customer behavior to design personalized marketing strategies.
