@@ -52,7 +52,7 @@ Final clusters: 4
 
 Cluster Insights
 🔹 Cluster 0 – Discount-Oriented Family Shoppers
-
+===============
 Key Characteristics:
 
 More children
@@ -79,7 +79,7 @@ Promote family deals
 Provide seasonal sales offers
 
 🔹 Cluster 1 – High-Value Loyal Customers
-
+=============
 Key Characteristics:
 
 Fewer children
@@ -108,7 +108,7 @@ Personalized recommendations
 Early access to new products
 
 🔹 Cluster 2 – Private, Low-Spending Families
-
+==============
 Key Characteristics:
 
 More children
@@ -135,7 +135,7 @@ Cashback offers
 Budget-friendly product recommendations
 
 🔹 Cluster 3 – Premium Single Shoppers (Best ROI Segment)
-
+===============
 Key Characteristics:
 
 Fewer children
